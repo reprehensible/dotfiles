@@ -45,6 +45,8 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
+unsetopt correct
+
 # Customize to your needs...
 export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mbruce/local/play-2.1.4
 
