@@ -49,5 +49,5 @@ unsetopt correct
 
 # Customize to your needs...
 export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mbruce/local/play-2.1.4
-
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 alias homeshick="$HOME/.homesick/repos/homeshick/home/.homeshick"

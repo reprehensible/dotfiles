@@ -14,6 +14,7 @@ Bundle 'bling/vim-airline'
 Bundle 'scrooloose/syntastic'
 Bundle 'jelera/vim-javascript-syntax'
 Bundle 'pangloss/vim-javascript'
+Bundle 'kchmck/vim-coffee-script'
  " requires cd .vim/bundle/YouCompleteMe && ./install.sh
 "Bundle 'Valloric/YouCompleteMe'
  " requires an npm install in the bundle dir
